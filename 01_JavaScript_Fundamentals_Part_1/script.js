@@ -408,7 +408,7 @@ Koalas scored 88, 91, and 110.
 
 // Switch Case Statement:  
 
-const day = 'monday';
+// const day = 'monday';
 
 // switch(day) {
 //     case 'monday':
@@ -484,4 +484,3 @@ if it's >= 50 && <= 300 😉
 // bill * 0.2;
 // console.log(`The bill was ${bill}, the tip was ${tip},
 // and the total value ${bill + tip}`);
-
